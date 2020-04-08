@@ -1,0 +1,16 @@
+{
+  "name": "getter-setter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.5.1",
+    "web3": "^1.2.6"
+  }
+}
