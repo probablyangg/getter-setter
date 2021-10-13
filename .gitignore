@@ -1,1 +1,4 @@
 node_modules
+SimpleStorage_sol_SimpleStorage.bin
+.ganache
+.env

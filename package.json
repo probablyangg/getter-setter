@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify": "^16.5.1",
-    "web3": "^1.2.6"
+    "dotenv": "^10.0.0",
+    "solc": "^0.8.9",
+    "web3": "^1.6.0"
   }
 }
