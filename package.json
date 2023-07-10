@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "browserify": "^16.5.1",
-    "web3": "^1.2.6"
+    "web3": "^4.0.2"
   }
 }
